@@ -1,2 +1,3 @@
 # MIMIC-1000
-ID files for the MIMIC-III-1000 splits
+This project contains the admission ids for each of the subsets (training/validation/testing) in the stratified MIMIC-1000 splits
+
